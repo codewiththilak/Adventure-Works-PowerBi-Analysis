@@ -118,7 +118,11 @@ This dashboard provides detailed insights on **product performance**:
 ## 📁 **Project Structure**
 ```bash
 Adventure Works Power BI Analysis/
+|__ Adventure Works Images
+|__ Adventure Works Raw Data
+|__ Adventure Works Dashboard
 ├── Adventure Works Executive Dashboard.PNG
 ├── Adventure Works Customer Details.PNG
 ├── Adventure Works Product Details.PNG
 └── README.md
+
