@@ -1,16 +1,16 @@
-# 🚴 Adventure Works Sales Analysis Dashboard
+# Adventure Works Sales Analysis Dashboard
 
-## 🗂️ Project Folder: Adventure Works Power BI Analysis
+## Project Folder: Adventure Works Power BI Analysis
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyses the **Adventure Works dataset** to derive product, customer, and executive-level business insights. The dashboards were built using **Power BI** to enable strategic decisions in sales performance, customer segmentation, and profitability tracking.
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 The dashboards help Adventure Works executives and analysts:
 
@@ -22,7 +22,7 @@ The dashboards help Adventure Works executives and analysts:
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - **Power BI Desktop** for data cleaning, modelling, and visualization.
 - **Power Query Editor** for data profiling and transformation.
@@ -30,11 +30,11 @@ The dashboards help Adventure Works executives and analysts:
 
 ---
 
-# 📊 **Dashboard 1: Executive Overview Dashboard**
+# **Dashboard 1: Executive Overview Dashboard**
 
 ![Executive Dashboard](https://i.postimg.cc/wBYPqJFP/Adventure-Works-Customer-Details.png)
 
-### 📌 **Description**
+###  **Description**
 
 This dashboard provides a **high-level executive summary** of sales performance:
 
@@ -43,7 +43,7 @@ This dashboard provides a **high-level executive summary** of sales performance:
 ✅ **Profit:** $10.5M  
 ✅ **Returns Rate:** 2.2%
 
-### 🔍 **Key Insights**
+###  **Key Insights**
 
 - **Revenues by Month:** Consistent growth from mid-2021, peaking in mid-2022.
 - **Orders by Category:** Highest in **Accessories**, followed by **Bikes** and **Clothing**.
@@ -57,11 +57,11 @@ This dashboard provides a **high-level executive summary** of sales performance:
 
 ---
 
-# 📈 **Dashboard 2: Customer Analysis Dashboard**
+#  **Dashboard 2: Customer Analysis Dashboard**
 
 ![Customer Dashboard](https://i.postimg.cc/wBYPqJFP/Adventure-Works-Customer-Details.png)
 
-### 📌 **Description**
+###  **Description**
 
 This dashboard focuses on **customer segmentation and revenue contribution**:
 
@@ -70,7 +70,7 @@ This dashboard focuses on **customer segmentation and revenue contribution**:
 ✅ **Total Orders:** 11K  
 ✅ **Total Revenue:** $9.3M
 
-### 🔍 **Key Insights**
+###  **Key Insights**
 
 - **Top Customer (2021):** Janet Munoz
 - **Top 100 Customers Table:** Sorted by revenue for targeted strategies.
@@ -85,11 +85,11 @@ This dashboard focuses on **customer segmentation and revenue contribution**:
 
 ---
 
-# 📦 **Dashboard 3: Product Details Dashboard**
+#  **Dashboard 3: Product Details Dashboard**
 
 ![Product Details Dashboard](https://i.postimg.cc/cLRhczM9/Adventure-Works-Produt-Details.png)
 
-### 📌 **Description**
+### **Description**
 
 This dashboard provides detailed insights on **product performance**:
 
@@ -97,7 +97,7 @@ This dashboard provides detailed insights on **product performance**:
 ✅ **Orders vs Target:** 204 vs 209  
 ✅ **Profit vs Target:** $2.58K vs $2.61K
 
-### 🔍 **Key Insights**
+### **Key Insights**
 
 - **Profit Adjustment Tool:** Scenario analysis for adjusted profit.
 - **Profit and Adjusted Profit by Month:** Shows monthly trends and adjustments.
@@ -106,7 +106,7 @@ This dashboard provides detailed insights on **product performance**:
 
 ---
 
-## ✨ **Learnings**
+## **Learnings**
 
 - Developed multi-page interactive dashboards for different business perspectives.
 - Created KPI cards, gauge charts, and slicers for executive-level summarization.
@@ -115,7 +115,7 @@ This dashboard provides detailed insights on **product performance**:
 
 ---
 
-## 📁 **Project Structure**
+## **Project Structure**
 ```bash
 Adventure Works Power BI Analysis/
 |__ Adventure Works Images
